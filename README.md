@@ -1,3 +1,6 @@
-- 👋 Hi, I’m @Ersonet y soy un diseñador gráfico que está ingresando al campo del diseó y desarrollo web.
-- Me  apasiona diseñar  wireframes y prototipos de aplicaciones móviles y sitios web.
-- Actualmente estoy culminando una tecnología en análisis y desarrollo de sistemas de información.
+Hello 👋
+I'm Jefferson Serrano, I'm a designer and programmer that day by day learns and updates with new technologies in the programming world. 🤟
+
+The purpose of this profile on GitHub is to publish the work I have done during my career as a programmer. 😎
+
+It's a pleasure!
