@@ -1,8 +1,9 @@
-Hola 👋
-Soy tecnólogo en análisis y desarrollo de sistemas de información competente en el área de análisis, diseño, maquetación y programación. Con conocimientos en los lenguajes HTML5, CSS3, JavaScript, PHP y Visual Basic.
+Hola 👋 Sean bienvenidos..
 
-Soy una persona minuciosa con gusto por las actualizaciones constantes y el aprendizaje continuo. Diseñé y programé el sitio web de la compañía donde realicé mi etapa productiva, obteniendo excelentes resultados de optimización y adaptabilidad.
+Diseñador Gráfico con énfasis en marketing digital en Facebook Ads usando la plataforma Facebook Business Manager. 🎯
 
-Disfruto llevar a cabo la maquetación e interactividad de interfaces web, manejando las herramientas Adobe Color CC, Google Fonts, Figma, CSS Button Generator, CANVA, MIRO, GTMetrix, Sublime Text, Visual Studio Code, Visual Studio 2019 y Google Chrome.
+Actualmente trabajo en campañas de Facebook Ads implementando como objetivo de "Consideracion"; Utilizando "Tráfico" y "Mensajes". 
 
-También cuento con experiencia en el área de diseño gráfico, realizando piezas gráficas en diferentes formatos.
+También tengo conocimiento en los lenguajes de marcado HTML5 y de estilos CSS3, realizando diferentes proyectos web. 💻
+
+Actualmente fortalezco mis conocimientos en la plataforma de educación online efectiva, PLATZI. 👨‍🏫
