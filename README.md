@@ -1,9 +1,5 @@
-Hola 👋 Sean bienvenidos..
+¡Hola a todos!👋
 
-Diseñador Gráfico con énfasis en marketing digital en Facebook Ads usando la plataforma Facebook Business Manager. 🎯
+💻 Soy diseñador gráfico con más de dos años de experiencia laboral en el diseño y desarrollo de branding e identidad visual de marca. He diseñado piezas gráficas para comunicaciones internas y externas, publicidad en formato flyer y brochure y publicidad digital para Facebook ADS, usando los software de Adobe Photoshop e Illustrator. Como diseñador y la experiencia obtenida en el área de marketing, he desarrollado un gusto por el diseño de interfaces de usuario (UI) y realizando algunas interfaces gráficas con Figma y con conocimientos en los lenguajes HTML y CSS.
 
-Actualmente trabajo en campañas de Facebook Ads implementando como objetivo de "Consideracion"; Utilizando "Tráfico" y "Mensajes". 
-
-También tengo conocimiento en los lenguajes de marcado HTML5 y de estilos CSS3, realizando diferentes proyectos web. 💻
-
-Actualmente fortalezco mis conocimientos en la plataforma de educación online efectiva, PLATZI. 👨‍🏫
+He obtenido un gusto por la programación, teniendo una base con el lenguaje de marcado HTML y el lenguaje de hojas de estilo CSS, desarrollando algunos sitios web alojados en mi repositorio de GitHub. Eso me motiva en el 2023 a inscribirme a una carrera profesional.
